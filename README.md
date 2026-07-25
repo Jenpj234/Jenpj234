@@ -1,6 +1,6 @@
 # Hi, I'm Jennifer 👋
 
-CS @ **Brooklyn College** minoring in **Data Science**, graduating in **May 2027**.
+CS + DS @ **Brooklyn College**, graduating in **May 2027**.
 
 ## 🛠️ Tech Stack
 
