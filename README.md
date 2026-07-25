@@ -27,6 +27,7 @@ CS + DS @ **Brooklyn College**, graduating in **May 2027**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="40" height="40" alt="Supabase"/>
 </p>
 
 ### Tools
@@ -35,6 +36,7 @@ CS + DS @ **Brooklyn College**, graduating in **May 2027**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
 </p>
 
 ---
@@ -63,7 +65,7 @@ Projects exploring regression, classification, decision trees, logistic regressi
 
 ## 📫 Connect With Me
 
-* **LinkedIn:** https://www.linkedin.com/in/YOUR-LINKEDIN
+* **LinkedIn:** https://www.linkedin.com/in/jennifer-perez-juarez
 * **GitHub:** https://github.com/Jenpj234
 
 Thanks for stopping by! Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or chat about software engineering.
