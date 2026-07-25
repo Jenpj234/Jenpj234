@@ -52,39 +52,11 @@ A JavaScript e-commerce application built from scratch featuring shopping cart f
 **Tech:** JavaScript • HTML • CSS • Jasmine
 
 ---
-
-### 🤖 React Chatbot
-
-A chatbot built with React and TypeScript that supports persistent conversations using localStorage and reusable component architecture.
-
-**Tech:** React • TypeScript • Vite
-
----
-
-### 📦 Full-Stack E-Commerce Application
-
-A React frontend connected to a Node/Express backend with API communication, routing, and modern frontend architecture.
-
-**Tech:** React • TypeScript • Express • Axios • Vite
-
----
-
 ### 📊 Machine Learning Projects
 
 Projects exploring regression, classification, decision trees, logistic regression, and data analysis using Python.
 
 **Tech:** Python • NumPy • pandas • scikit-learn
-
----
-
-## 🌱 Currently Learning
-
-* Advanced React patterns
-* Backend development with Python
-* AWS cloud services
-* System Design
-* Data Structures & Algorithms
-
 ---
 
 ## 💡 What I'm Interested In
