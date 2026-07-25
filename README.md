@@ -1,10 +1,6 @@
 # Hi, I'm Jennifer 👋
 
-I'm a Computer Science student at **Brooklyn College** with a minor in **Data Science**, graduating in **May 2027**.
-
-I enjoy building software that solves real problems, whether that's creating full-stack web applications, experimenting with machine learning models, or learning how scalable systems are designed. Most of my time lately has been spent exploring **React**, **JavaScript**, **Java**, **C++**, and **Python** while continuing to strengthen my understanding of software engineering fundamentals.
-
-During my software engineering internship at **Healthfirst**, I've been helping build internal full-stack applications, leading frontend development for portions of the project, collaborating with designers and engineers, and presenting my work to leadership. The experience has shown me how software moves from an idea to something that can genuinely improve people's workflow.
+CS @ **Brooklyn College** minoring in **Data Science**, graduating in **May 2027**.
 
 ## 🛠️ Tech Stack
 
@@ -62,11 +58,7 @@ Projects exploring regression, classification, decision trees, logistic regressi
 ## 💡 What I'm Interested In
 
 * Full-Stack Software Engineering
-* Frontend Engineering
 * Machine Learning
-* Cloud Computing
-* Building products that improve people's everyday lives
-
 ---
 
 ## 📫 Connect With Me
