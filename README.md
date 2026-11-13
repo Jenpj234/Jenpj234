@@ -1,6 +1,18 @@
-# Hi, I'm Jennifer 👋
+# Hi, I'm Jennifer Perez-Juarez 👋
 
-CS + DS @ **Brooklyn College**, graduating in **May 2027**.
+**`Fall AI Studio @ MasterCard via Break Through Tech | Full-stack + AI/ML`**
+
+**`Computer Science + Data Science @ Brooklyn College`**
+
+**`Expected Graduation: May 2027`**
+
+<a href="https://www.linkedin.com/in/jennifer-perez-juarez/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+<a href="https://github.com/Jenpj234/" target="blank">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+</a>
+
 
 ## 🛠️ Tech Stack
 
@@ -55,17 +67,3 @@ A JavaScript e-commerce application built from scratch featuring shopping cart f
 Projects exploring regression, classification, decision trees, logistic regression, and data analysis using Python.
 
 **Tech:** Python • NumPy • pandas • scikit-learn
----
-
-## 💡 What I'm Interested In
-
-* Full-Stack Software Engineering
-* Machine Learning
----
-
-## 📫 Connect With Me
-
-* **LinkedIn:** https://www.linkedin.com/in/jennifer-perez-juarez
-* **GitHub:** https://github.com/Jenpj234
-
-Thanks for stopping by! Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or chat about software engineering.
