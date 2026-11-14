@@ -23,69 +23,61 @@ Exploring the field one step at a time...
 
 ## 🛠️ Tech Stack
 
-### Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+### Programming Languages
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css,cpp,mysql" />
+  </a>
 </p>
 
-### Frontend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="40" height="40" alt="Vite"/>
+### Frameworks
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,vitest" />
+  </a>
 </p>
 
-### Backend & Databases
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="40" height="40" alt="Supabase"/>
+### Libraries
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=scikitlearn" />
+  </a>
 </p>
 
-### Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
-</p>
 
----
+### Developer Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,supabase,aws,postman" />
+  </a>
+</p>
 
 ## 🚀 Featured Projects
 
 ### 🏦 Fraud Detection
 `Fall AI Studio Fellow`
+<img width="320" height="370" alt="giphy" src="https://github.com/user-attachments/assets/7107a1c4-4681-4059-9ee6-3ec41335cca3" />
+
+**Tech:** Python • NumPy • pandas • scikit-learn
 
 	•	Engineered 35 fraud-detection features across 590K+ IEEE-CIS transactions, including spending spikes, device changes, and transaction bursts, using historical data to prevent temporal leakage
 	•	Built a time-aware risk encoding for card and email categories that became the team’s strongest single fraud signal, capturing 52% of fraud in the riskiest 20% of transactions (0.728 ROC-AUC)
 	•	Led the team’s baseline modeling, comparing XGBoost, LightGBM, and logistic regression; the best model reached 0.63 PR-AUC vs. 0.43 and caught 56% of fraud at a 1% false-positive rate
 	•	Ran ablation studies and leakage tests to measure which feature groups improved detection, tracking fraud caught, false alarms, and fraud dollars captured
 
-**Tech:** Python • NumPy • pandas • scikit-learn
 
 ### 🛒 Ecommerce app
+**Tech:** React • TypeScript • Node • AWS
 
 	•	Migrated a 14,500+ line full-stack React application from JavaScript to TypeScript, improving type safety and maintainability while preserving REST API integrations
 	•	Authored 25 unit and integration tests with Vitest covering core application behavior and frontend-backend interactions
 	•	Automated AWS Elastic Beanstalk deployment packaging via npm scripts that bundle frontend and backend into a deployable ZIP, reducing manual deployment steps from 4 to 2
 
-**Tech:** React • TypeScript • Node • AWS
-
 ### 📊 Airbnb Superhost Prediction
+**Tech:** Python • NumPy • pandas • scikit-learn
 
 	•	Built and evaluated a logistic regression classifier predicting Superhost status, achieving 80.8% accuracy and 0.824 ROC-AUC
 	•	Applied SelectKBest to reduce 49 features to 9, retaining 98.5% of full-model ROC-AUC with 82% fewer features
-
-**Tech:** Python • NumPy • pandas • scikit-learn
 
 ## 📈Stats
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Jenpj234&show_icons=true&include_all_commits=false&theme=vue-dark)](https://github-stats-extended.vercel.app/api?username=Jenpj234&show_icons=true&include_all_commits=false&theme=vue-dark)
