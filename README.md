@@ -12,12 +12,16 @@ Looking for any SWE, AI, ML & data science roles for Spring and Summer 2027!
 
 Exploring the field one step at a time...
 
+<img width="320" height="370" alt="giphy" src="https://github.com/user-attachments/assets/7107a1c4-4681-4059-9ee6-3ec41335cca3" />
+
+<p>
 <a href="https://www.linkedin.com/in/jennifer-perez-juarez/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 <a href="https://github.com/Jenpj234/" target="blank">
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
 </a>
+</p>
 
 <a href="jenniferperez.6190@gmail.com">Feel free to email me!</a>
 
@@ -56,7 +60,6 @@ Exploring the field one step at a time...
 
 ### 🏦 Fraud Detection
 `Fall AI Studio Fellow`
-<img width="320" height="370" alt="giphy" src="https://github.com/user-attachments/assets/7107a1c4-4681-4059-9ee6-3ec41335cca3" />
 
 **Tech:** Python • NumPy • pandas • scikit-learn
 
