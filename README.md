@@ -73,7 +73,6 @@
 
 **Tech:** React • TypeScript • Node • AWS
 
----
 ### 📊 Airbnb Superhost Prediction
 
 	•	Built and evaluated a logistic regression classifier predicting Superhost status, achieving 80.8% accuracy and 0.824 ROC-AUC
@@ -81,4 +80,5 @@
 
 **Tech:** Python • NumPy • pandas • scikit-learn
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Jenpj234&show_icons=true&include_all_commits=true&theme=vue-dark)](https://github-stats-extended.vercel.app/api?username=Jenpj234&show_icons=true&include_all_commits=true&theme=vue-dark)
+## 📈Stats
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Jenpj234&show_icons=true&include_all_commits=false&theme=vue-dark)](https://github-stats-extended.vercel.app/api?username=Jenpj234&show_icons=true&include_all_commits=false&theme=vue-dark)
