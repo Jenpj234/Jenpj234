@@ -6,6 +6,10 @@
 
 **`Expected Graduation: May 2027`**
 
+## 🫡 About Me
+
+Looking for any SWE, AI, ML & data science roles for Spring and Summer 2027!
+
 <a href="https://www.linkedin.com/in/jennifer-perez-juarez/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
