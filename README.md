@@ -68,4 +68,7 @@ Projects exploring regression, classification, decision trees, logistic regressi
 
 **Tech:** Python • NumPy • pandas • scikit-learn
 
+### Featured Repositories
+[![Repo Card](https://vercel.app)](https://github.com)
+
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Jenpj234&show_icons=true&include_all_commits=true&theme=vue-dark)](https://github-stats-extended.vercel.app/api?username=Jenpj234&show_icons=true&include_all_commits=true&theme=vue-dark)
