@@ -68,4 +68,4 @@ Projects exploring regression, classification, decision trees, logistic regressi
 
 **Tech:** Python • NumPy • pandas • scikit-learn
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Jenpj234)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Jenpj234&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
