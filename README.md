@@ -55,20 +55,30 @@
 
 ## 🚀 Featured Projects
 
-### 🛒 Amazon Replica
+### 🏦 Fraud Detection
+`Fall AI Studio Fellow`
 
-A JavaScript e-commerce application built from scratch featuring shopping cart functionality, checkout flow, delivery options, and comprehensive testing.
-
-**Tech:** JavaScript • HTML • CSS • Jasmine
-
----
-### 📊 Machine Learning Projects
-
-Projects exploring regression, classification, decision trees, logistic regression, and data analysis using Python.
+	•	Engineered 35 fraud-detection features across 590K+ IEEE-CIS transactions, including spending spikes, device changes, and transaction bursts, using historical data to prevent temporal leakage
+	•	Built a time-aware risk encoding for card and email categories that became the team’s strongest single fraud signal, capturing 52% of fraud in the riskiest 20% of transactions (0.728 ROC-AUC)
+	•	Led the team’s baseline modeling, comparing XGBoost, LightGBM, and logistic regression; the best model reached 0.63 PR-AUC vs. 0.43 and caught 56% of fraud at a 1% false-positive rate
+	•	Ran ablation studies and leakage tests to measure which feature groups improved detection, tracking fraud caught, false alarms, and fraud dollars captured
 
 **Tech:** Python • NumPy • pandas • scikit-learn
 
-### Featured Repositories
-[![Repo Card](https://vercel.app)](https://github.com)
+### 🛒 Ecommerce app
+
+	•	Migrated a 14,500+ line full-stack React application from JavaScript to TypeScript, improving type safety and maintainability while preserving REST API integrations
+	•	Authored 25 unit and integration tests with Vitest covering core application behavior and frontend-backend interactions
+	•	Automated AWS Elastic Beanstalk deployment packaging via npm scripts that bundle frontend and backend into a deployable ZIP, reducing manual deployment steps from 4 to 2
+
+**Tech:** React • TypeScript • Node • AWS
+
+---
+### 📊 Airbnb Superhost Prediction
+
+	•	Built and evaluated a logistic regression classifier predicting Superhost status, achieving 80.8% accuracy and 0.824 ROC-AUC
+	•	Applied SelectKBest to reduce 49 features to 9, retaining 98.5% of full-model ROC-AUC with 82% fewer features
+
+**Tech:** Python • NumPy • pandas • scikit-learn
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Jenpj234&show_icons=true&include_all_commits=true&theme=vue-dark)](https://github-stats-extended.vercel.app/api?username=Jenpj234&show_icons=true&include_all_commits=true&theme=vue-dark)
