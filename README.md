@@ -13,7 +13,7 @@
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
 </a>
 
-<a href="jenniferperez.6190@gmail.com">Feel free to reach out!</a>
+<a href="jenniferperez.6190@gmail.com">Feel free to email me!</a>
 
 ## 🛠️ Tech Stack
 
