@@ -8,7 +8,7 @@
 
 ## 🫡 About Me
 
-Looking for any SWE, AI, ML & data science roles for Spring and Summer 2027!
+Open to Spring 2027 internships and 2027 new-grad opportunities in Software Engineering, AI/ML, and Data Science.Open to Spring 2027 internships and 2027 new-grad opportunities in Software Engineering, AI/ML, and Data Science.
 
 Exploring the field one step at a time...
 
@@ -62,25 +62,21 @@ Exploring the field one step at a time...
 `Fall AI Studio Fellow`
 
 **Tech:** Python • NumPy • pandas • scikit-learn
-
-	•	Engineered 35 fraud-detection features across 590K+ IEEE-CIS transactions, including spending spikes, device changes, and transaction bursts, using historical data to prevent temporal leakage
-	•	Built a time-aware risk encoding for card and email categories that became the team’s strongest single fraud signal, capturing 52% of fraud in the riskiest 20% of transactions (0.728 ROC-AUC)
-	•	Led the team’s baseline modeling, comparing XGBoost, LightGBM, and logistic regression; the best model reached 0.63 PR-AUC vs. 0.43 and caught 56% of fraud at a 1% false-positive rate
-	•	Ran ablation studies and leakage tests to measure which feature groups improved detection, tracking fraud caught, false alarms, and fraud dollars captured
-
+* Engineered 35 fraud-detection features across 590K+ IEEE-CIS transactions, including spending spikes, device changes, and transaction bursts, using historical data to prevent temporal leakage
+* Built a time-aware risk encoding for card and email categories that became the team’s strongest single fraud signal, capturing 52% of fraud in the riskiest 20% of transactions (0.728 ROC-AUC)
+* Led the team’s baseline modeling, comparing XGBoost, LightGBM, and logistic regression; the best model reached 0.63 PR-AUC vs. 0.43 and caught 56% of fraud at a 1% false-positive rate
+* Ran ablation studies and leakage tests to measure which feature groups improved detection, tracking fraud caught, false alarms, and fraud dollars captured
 
 ### 🛒 Ecommerce app
 **Tech:** React • TypeScript • Node • AWS
-
-	•	Migrated a 14,500+ line full-stack React application from JavaScript to TypeScript, improving type safety and maintainability while preserving REST API integrations
-	•	Authored 25 unit and integration tests with Vitest covering core application behavior and frontend-backend interactions
-	•	Automated AWS Elastic Beanstalk deployment packaging via npm scripts that bundle frontend and backend into a deployable ZIP, reducing manual deployment steps from 4 to 2
+* Migrated a 14,500+ line full-stack React application from JavaScript to TypeScript, improving type safety and maintainability while preserving REST API integrations
+* Authored 25 unit and integration tests with Vitest covering core application behavior and frontend-backend interactions
+* Automated AWS Elastic Beanstalk deployment packaging via npm scripts that bundle frontend and backend into a deployable ZIP, reducing manual deployment steps from 4 to 2
 
 ### 📊 Airbnb Superhost Prediction
 **Tech:** Python • NumPy • pandas • scikit-learn
-
-	•	Built and evaluated a logistic regression classifier predicting Superhost status, achieving 80.8% accuracy and 0.824 ROC-AUC
-	•	Applied SelectKBest to reduce 49 features to 9, retaining 98.5% of full-model ROC-AUC with 82% fewer features
+* Built and evaluated a logistic regression classifier predicting Superhost status, achieving 80.8% accuracy and 0.824 ROC-AUC
+* Applied SelectKBest to reduce 49 features to 9, retaining 98.5% of full-model ROC-AUC with 82% fewer features
 
 ## 📈Stats
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Jenpj234&show_icons=true&include_all_commits=false&theme=vue-dark)](https://github-stats-extended.vercel.app/api?username=Jenpj234&show_icons=true&include_all_commits=false&theme=vue-dark)
