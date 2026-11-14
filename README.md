@@ -10,6 +10,10 @@
 
 Looking for any SWE, AI, ML & data science roles for Spring and Summer 2027!
 
+Exploring the field one step at a time...
+
+https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyaTdzb2dnbDdrMTQ0MWk2dWR4dTFrd2tyNXk0ZWFjbWI1MjFldDhxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2ohfKrgoRPYbRMVQfB/giphy.gif
+
 <a href="https://www.linkedin.com/in/jennifer-perez-juarez/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
