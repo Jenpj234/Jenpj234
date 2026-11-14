@@ -67,3 +67,5 @@ A JavaScript e-commerce application built from scratch featuring shopping cart f
 Projects exploring regression, classification, decision trees, logistic regression, and data analysis using Python.
 
 **Tech:** Python • NumPy • pandas • scikit-learn
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Jenpj)](https://github.com/stats-organization/github-stats-extended)
